@@ -10,7 +10,7 @@ This was initially produced as part of a code task but I would like to update th
 - Deployment: Netlify
 
 ## Deployment
-(https://github.com/facebook/create-react-app)
+https://weather-app-adele.netlify.app/
 
 ![Weather_app](https://user-images.githubusercontent.com/72464825/141139403-04baca03-9003-4ea8-83f2-c8f7412c38c5.PNG)
 
